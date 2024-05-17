@@ -2,7 +2,6 @@
 
 
 # Prerequisites:
-- Oracle 23ai. see tutorial
 - ojdbc 23.4.0.24.05
 - OpenAI api key.
 
