@@ -3,7 +3,7 @@
 
 # Prerequisites:
 - ojdbc 23.4.0.24.05
-- OpenAI api key.
+- OpenAI api key. https://platform.openai.com/
 
 
 ## Step 1: Setting up
@@ -148,6 +148,7 @@ $ curl http://localhost:8080/pdf/ai/chat
 ```
 
 # References:
+- https://docs.oracle.com/en/database/oracle/oracle-database/23/vecse/oracle-ai-vector-search-users-guide.pdf
 - https://medium.com/oracledevs/oracle-ai-vector-search-for-java-developers-with-the-oracle-database-23ai-e29321d23fa0
 
 
